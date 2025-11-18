@@ -96,7 +96,7 @@ The server runs on **http://localhost:3000**
 - Basic error handling for fetch requests
 
 ## GitHub Repository Link
-- Add your repository link here after you push: `https://github.com/<your-username>/restaurant-menu-api`
+- Add your repository link here after you push: `https://github.com/mohammedaarezs95-ctrl/restraunt_aarez.git`
 
 ## Author Information
 - **Name:** Mohammed Aarez
